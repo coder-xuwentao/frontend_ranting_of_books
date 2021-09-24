@@ -6,6 +6,8 @@
 npm install
 npm run dev
 ```
+### 目的
+demo for nuxt
 
 ### 技术栈：
 
