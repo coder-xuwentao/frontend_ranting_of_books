@@ -11,6 +11,9 @@ npm run dev
 
 bootstrap-vue、vue2、nuxt脚手架
 
+### 后端
+https://github.com/shakexu1/backend_ranting_of_books
+
 ### 业务：
 
 #### 最大特点：响应式
